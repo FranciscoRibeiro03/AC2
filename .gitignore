@@ -1,8 +1,6 @@
-Estudo/*
 Testes/*
 *.sym
 *.hex
 *.map
 *.elf
-*.json
 *.o

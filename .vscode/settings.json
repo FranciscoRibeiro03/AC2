@@ -1,0 +1,7 @@
+{
+    "[mips]": {
+        "editor.snippetSuggestions": "none"
+    },
+    "editor.tabSize": 8,
+    "C_Cpp.errorSquiggles": "disabled"
+}
