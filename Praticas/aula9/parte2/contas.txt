@@ -1,0 +1,6 @@
+tON = 0,25 * (1 / 100) = 2,5 ms
+
+fOutPresc = 20000000 / 4 = 5MHz
+tOutPresc = 1 / 5MHz = 200 ns
+
+OC1TS = (2,5 x 10^-3) / (200 x 10^-9) = 12500
