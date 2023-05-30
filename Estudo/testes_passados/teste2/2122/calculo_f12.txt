@@ -1,0 +1,9 @@
+Timer 2
+
+
+kPrescaler = 20000000 / ( 65536 * 120 ) = 2,54313151
+kPrescaler = 4
+No código, kPrescaler = 2 (010)
+
+PR2 = ( (20000000 / 4) / 120) - 1
+PR2 = 41666
